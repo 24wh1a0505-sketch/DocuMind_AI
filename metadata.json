@@ -1,0 +1,6 @@
+{
+  "name": "DocuMind AI Pro",
+  "description": "Intelligent Document Understanding, Trust Verification, Real-Time Analytics & Automation Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
