@@ -147,7 +147,8 @@ C:\Users\Pavan\OneDrive\Pictures\Screenshots\Screenshot 2026-10-15 105248.png
       <img src="docs/screenshots/ai-assistant.png" alt="AI assistant" width="100%" />
     </td>
     <td align="center">
-      C:\Users\Pavan\OneDrive\Pictures\Screenshots\Screenshot 2026-10-16 121603.png
+      <img width="1917" height="967" alt="Screenshot 2026-10-16 121623" src="https://github.com/user-attachments/assets/83ad927f-0051-4d4a-ab6a-fdb163dcf2eb" />
+
       <!-- 🖼️ UPLOAD IMAGE HERE → docs/screenshots/dashboard.png -->
       <img src="docs/screenshots/dashboard.png" alt="Dashboard analytics" width="100%" />
     </td>
