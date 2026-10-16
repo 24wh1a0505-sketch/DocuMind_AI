@@ -100,7 +100,8 @@ Every vendor invoice in one queue — six filter tabs with live counts, search, 
 
 <div align="center">
 
-C:\Users\Pavan\OneDrive\Pictures\Screenshots\Screenshot 2026-10-15 105116.png
+<img width="1917" height="975" alt="Screenshot 2026-10-15 105116" src="https://github.com/user-attachments/assets/aa309f71-4426-4781-ac2c-9e94b3d68493" />
+
 <img src="docs/screenshots/invoice-table.png" alt="Invoice table" width="900" />
 
 </div>
@@ -113,8 +114,8 @@ Extracted fields with **AI Scores** on the left; the document canvas with intera
 
 <div align="center">
 
-<!-- 🖼️ UPLOAD IMAGE HERE → docs/screenshots/document-review.png -->
-<img src="docs/screenshots/document-review.png" alt="Document review split-screen viewer" width="900" />
+
+<img width="1917" height="976" alt="Screenshot 2026-10-15 105248" src="https://github.com/user-attachments/assets/869b388b-64a5-40b3-876d-6c75e9828af1" />
 
 </div>
 
@@ -126,7 +127,9 @@ Drag-and-drop **PDF, PNG, JPG, or XML** (up to 20 MB) — or try a one-click sam
 
 <div align="center">
 
-C:\Users\Pavan\OneDrive\Pictures\Screenshots\Screenshot 2026-10-15 105248.png
+<img width="1917" height="975" alt="Screenshot 2026-10-15 105201" src="https://github.com/user-attachments/assets/2a120b6e-a6ee-4f0c-ad23-4d07d8332321" />
+
+
 <img src="docs/screenshots/upload-modal.png" alt="Upload invoice modal" width="900" />
 
 </div>
@@ -142,12 +145,14 @@ C:\Users\Pavan\OneDrive\Pictures\Screenshots\Screenshot 2026-10-15 105248.png
   </tr>
   <tr>
     <td align="center">
-      C:\Users\Pavan\OneDrive\Pictures\Screenshots\Screenshot 2026-10-16 121623.png
+     <img width="1917" height="967" alt="Screenshot 2026-10-16 121623" src="https://github.com/user-attachments/assets/39c03d5a-e113-4c9b-8eb1-fb73e1cb17a1" />
+
       <!-- 🖼️ UPLOAD IMAGE HERE → docs/screenshots/ai-assistant.png -->
       <img src="docs/screenshots/ai-assistant.png" alt="AI assistant" width="100%" />
     </td>
     <td align="center">
       <img width="1917" height="967" alt="Screenshot 2026-10-16 121623" src="https://github.com/user-attachments/assets/83ad927f-0051-4d4a-ab6a-fdb163dcf2eb" />
+       <img width="1917" height="970" alt="Screenshot 2026-10-16 121603" src="https://github.com/user-attachments/assets/90fdc243-89d2-49c6-9655-63f3f3c3588b" />
 
       <!-- 🖼️ UPLOAD IMAGE HERE → docs/screenshots/dashboard.png -->
       <img src="docs/screenshots/dashboard.png" alt="Dashboard analytics" width="100%" />
@@ -162,7 +167,8 @@ C:\Users\Pavan\OneDrive\Pictures\Screenshots\Screenshot 2026-10-15 105248.png
 ### 💻 Dev Server Running
 
 <div align="center">
-C:\Users\Pavan\OneDrive\Pictures\Screenshots\Screenshot 2026-10-15 103249.png
+<img width="1097" height="325" alt="Screenshot 2026-10-15 103249" src="https://github.com/user-attachments/assets/aeec98e1-3f9c-491e-8dff-7d22793cf2ce" />
+
 <!-- 🖼️ UPLOAD IMAGE HERE → docs/screenshots/dev-server.png -->
 <img src="docs/screenshots/dev-server.png" alt="Vite dev server running" width="800" />
 
