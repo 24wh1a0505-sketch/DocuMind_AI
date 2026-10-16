@@ -99,8 +99,7 @@ DocuMind AI puts everything in one interface: a **searchable invoice queue**, **
 Every vendor invoice in one queue — six filter tabs with live counts, search, colour-coded status badges, and the reason shown under each exception.
 
 <div align="center">
-
-<img width="1917" height="975" alt="Screenshot 2026-10-15 105116" src="https://github.com/user-attachments/assets/aa309f71-4426-4781-ac2c-9e94b3d68493" />
+<img width="1917" height="976" alt="Screenshot 2026-10-15 105248" src="https://github.com/user-attachments/assets/869b388b-64a5-40b3-876d-6c75e9828af1" />
 
 <img src="docs/screenshots/invoice-table.png" alt="Invoice table" width="900" />
 
@@ -115,7 +114,7 @@ Extracted fields with **AI Scores** on the left; the document canvas with intera
 <div align="center">
 
 
-<img width="1917" height="976" alt="Screenshot 2026-10-15 105248" src="https://github.com/user-attachments/assets/869b388b-64a5-40b3-876d-6c75e9828af1" />
+<img width="1917" height="975" alt="Screenshot 2026-10-15 105116" src="https://github.com/user-attachments/assets/b0e38323-0fc6-4241-b96d-2052bb542f56" />
 
 </div>
 
