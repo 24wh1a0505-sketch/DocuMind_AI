@@ -449,7 +449,7 @@ node --version && npm --version     # verify your tools
 
 ```bash
 # 1. Get the code
-[git clone <your-repository-url> documind-ai-pro](https://github.com/24wh1a0505-sketch/DocuMind_AI.git)
+https://github.com/24wh1a0505-sketch/DocuMind_AI.git
 cd documind-ai-pro
 
 # 2. Install dependencies
