@@ -146,6 +146,8 @@ Drag-and-drop **PDF, PNG, JPG, or XML** (up to 20 MB) — or try a one-click sam
   <tr>
     <td align="center">
      <img width="1917" height="967" alt="Screenshot 2026-10-16 121623" src="https://github.com/user-attachments/assets/39c03d5a-e113-4c9b-8eb1-fb73e1cb17a1" />
+     <img width="1917" height="970" alt="Screenshot 2026-10-16 121603" src="https://github.com/user-attachments/assets/1f4d3efc-ba35-4e86-8205-f465275ebf7d" />
+
 
       <!-- 🖼️ UPLOAD IMAGE HERE → docs/screenshots/ai-assistant.png -->
       <img src="docs/screenshots/ai-assistant.png" alt="AI assistant" width="100%" />
